@@ -1,0 +1,9 @@
+html {
+    font-size: 20px;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.logo i{
+font-size: 50px;
+}
